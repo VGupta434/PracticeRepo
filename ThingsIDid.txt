@@ -12,4 +12,4 @@
 12. created new files in branch and commited them
 13. checked the commit history of the file using git log command
 14. pushed the feature branch to remote repo by creating a new upstream branch on remote repo.
-15.
+15. merged the feature branch to the master branch.
