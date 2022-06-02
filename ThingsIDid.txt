@@ -8,3 +8,8 @@
 8.  pulled the changes from the GIT Hub repo
 9.  Added and removed collaborators from the GIT Hub repo
 10. Created a feature branch
+11. switched between branches
+12. created new files in branch and commited them
+13. checked the commit history of the file using git log command
+14. pushed the feature branch to remote repo by creating a new upstream branch on remote repo.
+15.
