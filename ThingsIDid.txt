@@ -1,0 +1,10 @@
+1.  Initialised a local repository
+2.  Added files tot the working directory
+3.  added the files to staging area
+4.  committed the changes
+5.  created an account on GIT Hub
+6.  created the remote repo on GIT Hub
+7.  Pushed the changes onto the GIT Hub Remote repo
+8.  pulled the changes from the GIT Hub repo
+9.  Added and removed collaborators from the GIT Hub repo
+10. Created a feature branch
