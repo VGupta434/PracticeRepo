@@ -14,3 +14,8 @@
 14. pushed the feature branch to remote repo by creating a new upstream branch on remote repo.
 15. merged the feature branch to the master branch.
 16. used cherry-pick command to merge specific commit from feature branch to master branch
+17. deleted feature branch from local repository.
+18. deleted feature branch from remote repository(from git bash using git push -d command).
+19. deleted feature branch from remote repository using the GIT Hub web.
+20. aborted the merge using git mrege --abort command
+21. forked a repository from a different user's repository.
