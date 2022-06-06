@@ -19,3 +19,5 @@
 19. deleted feature branch from remote repository using the GIT Hub web.
 20. aborted the merge using git mrege --abort command
 21. forked a repository from a different user's repository.
+22. used rebasing merging strategy.
+23. used checkout command to detach head.
