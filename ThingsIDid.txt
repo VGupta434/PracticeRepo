@@ -21,3 +21,5 @@
 21. forked a repository from a different user's repository.
 22. used rebasing merging strategy.
 23. used checkout command to detach head.
+24. removed the remote from the local repo using remote rm origin command
+25. created SSH key using ssh-keygen command (SSH stored at /c/Users/Uname/.ssh/id_rsa)
