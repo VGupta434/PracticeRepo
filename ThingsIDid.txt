@@ -23,4 +23,3 @@
 23. used checkout command to detach head.
 24. removed the remote from the local repo using remote rm origin command
 25. created SSH key using ssh-keygen command (SSH stored at /c/Users/Uname/.ssh/id_rsa)
-26. connected to github using SSH protocol and pushed the contents of the repo to the GitHub repository
